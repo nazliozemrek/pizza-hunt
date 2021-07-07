@@ -1,0 +1,21 @@
+{
+  "name": "pizza-hunt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazliozemrek/pizza-hunt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nazliozemrek/pizza-hunt/issues"
+  },
+  "homepage": "https://github.com/nazliozemrek/pizza-hunt#readme"
+}
