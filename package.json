@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/nazliozemrek/pizza-hunt/issues"
   },
-  "homepage": "https://github.com/nazliozemrek/pizza-hunt#readme"
+  "homepage": "https://github.com/nazliozemrek/pizza-hunt#readme",
+  "dependencies": {
+    "mongoose": "^5.13.2"
+  }
 }
